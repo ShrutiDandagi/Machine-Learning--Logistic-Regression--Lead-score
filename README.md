@@ -1,0 +1,2 @@
+# Machine-Learning--Logistic-Regression--Lead-score
+X education sells online courses to Industry Professionals &amp; gets a lots of leads , its lead conversion rate is very poor. For example, if they acquire 100 leads in a day , only about 30 of them are converted. Built the Logistic regression model to assign a lead score value between 0 to 100 to each of the leads which can be used by the company to target Potential Leads
